@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestGerman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string String-Id="P1_Line" Size="24x4">
+		<Deutsch1 Deutsch-SGUID="75397def-991b-11ea-8568-8df113ebd62f" Deutsch-PGUID="45fce632-991b-11ea-8568-8df113ebd62f">First Line P1
+Second Line P1</Deutsch1>
+		<Deutsch2 Deutsch-SGUID="75aefc13-991b-11ea-8568-8df113ebd62f" Deutsch-PGUID="45fce632-991b-11ea-8568-8df113ebd62f">First Line P2
+Second Line P2</Deutsch2>
+		<Deutsch3 Deutsch-SGUID="762f2897-991b-11ea-8568-8df113ebd62f" Deutsch-PGUID="45fce632-991b-11ea-8568-8df113ebd62f">First Line P3
+Second Line P3</Deutsch3>
+	</string>
+</TestGerman>

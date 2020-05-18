@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="3b263307-991a-11ea-8568-8df113ebd62f">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="3b26330f-991a-11ea-8568-8df113ebd62f" type="resource" guid="3b263308-991a-11ea-8568-8df113ebd62f" />
+  </owns>
+  <owns predicate="1a00c1c0-0f10-11e7-9a20-dfec81ac21a9">
+    <resource statement-guid="3b263315-991a-11ea-8568-8df113ebd62f" type="resource" guid="3b263309-991a-11ea-8568-8df113ebd62f" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="3b26330a-991a-11ea-8568-8df113ebd62f" type="resource" guid="bb1a1087-0e41-11e7-bc08-e928dcbbca14" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="3b26330b-991a-11ea-8568-8df113ebd62f" type="literal">Test example import wizard</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="3b26330f-991a-11ea-8568-8df113ebd62f">
+      <resource guid="3b263308-991a-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="3b26330c-991a-11ea-8568-8df113ebd62f" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="3b26330d-991a-11ea-8568-8df113ebd62f" type="literal">ch.actifsource.xml.importer.aspect.XmlImportWizardAspect</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="3b26330e-991a-11ea-8568-8df113ebd62f" type="resource" guid="521f1dd5-0e46-11e7-bc08-e928dcbbca14" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="26751bdf-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263310-991a-11ea-8568-8df113ebd62f" type="literal">1.0.0</object>
+  </predicate>
+  <predicate guid="461126a0-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263311-991a-11ea-8568-8df113ebd62f" type="literal">Actifsource example</object>
+  </predicate>
+  <predicate guid="57635ae9-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263312-991a-11ea-8568-8df113ebd62f" type="literal">The Actifsource XML-Import-Wizard is a simple tool to import literals (as string, integer, double, text values) for existing resources.
+
+SGUID references the subject by its GUID while PGUID references the literal by its GUID. Please note that there can be any prefix in front of SGUID and PGUID.
+
+The Actifsource XML-Import-Wizard understands the following format:
+
+&lt;any-tag any-attr-SGUID='GUID' any-attr-PGUID='GUID'&gt;VALUE1&lt;/any-tag&gt;
+&lt;any-tag any-attr-SGUID='GUID' any-attr-PGUID='GUID'&gt;VALUE2&lt;/any-tag&gt;
+&lt;any-tag any-attr-SGUID='GUID' any-attr-PGUID='GUID'&gt;VALUE3&lt;/any-tag&gt;
+
+The GUID has to be provided in the 8-4-4-4-12 format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+
+Please note that the following input means the same as above when the subject cardinality is greater than 1 for any literal type except text.
+&lt;any-tag any-attr-SGUID='GUID' any-attr-PGUID='GUID'&gt;VALUE1
+ VALUE2
+VALUE3&lt;/any-tag&gt;
+For text values newline means new line in the text.
+</object>
+  </predicate>
+  <predicate guid="60f8f7f0-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263313-991a-11ea-8568-8df113ebd62f" type="literal">The Actifsource XML-Import-Wizard is a simple tool to import literals 
+(as string, integer, double, text values) for existing resources.</object>
+  </predicate>
+  <predicate guid="1a00c1c0-0f10-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263315-991a-11ea-8568-8df113ebd62f">
+      <resource guid="3b263309-991a-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="3b263314-991a-11ea-8568-8df113ebd62f" type="resource" guid="f61581f7-0f0f-11e7-9a20-dfec81ac21a9" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="ff5671f2-0f13-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="3b263316-991a-11ea-8568-8df113ebd62f" type="literal">xml</object>
+  </predicate>
+</resource>
+
