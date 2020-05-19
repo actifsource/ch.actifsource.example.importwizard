@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="7c0c465c-9994-11ea-93a4-73c68a644d12">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="7c0c4664-9994-11ea-93a4-73c68a644d12" type="resource" guid="7c0c465d-9994-11ea-93a4-73c68a644d12" />
+  </owns>
+  <owns predicate="1a00c1c0-0f10-11e7-9a20-dfec81ac21a9">
+    <resource statement-guid="9395aa70-9994-11ea-93a4-73c68a644d12" type="resource" guid="9395aa6e-9994-11ea-93a4-73c68a644d12" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7c0c465f-9994-11ea-93a4-73c68a644d12" type="resource" guid="bb1a1087-0e41-11e7-bc08-e928dcbbca14" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7c0c4660-9994-11ea-93a4-73c68a644d12" type="literal">TestCsvImport</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7c0c4664-9994-11ea-93a4-73c68a644d12">
+      <resource guid="7c0c465d-9994-11ea-93a4-73c68a644d12">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="7c0c4661-9994-11ea-93a4-73c68a644d12" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="7c0c4662-9994-11ea-93a4-73c68a644d12" type="literal">ch.actifsource.example.importwizard.CsvImporter</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="7c0c4663-9994-11ea-93a4-73c68a644d12" type="resource" guid="521f1dd5-0e46-11e7-bc08-e928dcbbca14" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="26751bdf-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="7c0c4665-9994-11ea-93a4-73c68a644d12" type="literal">1.0.0</object>
+  </predicate>
+  <predicate guid="461126a0-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="7c0c4666-9994-11ea-93a4-73c68a644d12" type="literal">Actifsource example</object>
+  </predicate>
+  <predicate guid="57635ae9-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="112e3921-9995-11ea-93a4-73c68a644d12" type="literal"></object>
+  </predicate>
+  <predicate guid="60f8f7f0-0f0d-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="7c0c4668-9994-11ea-93a4-73c68a644d12" type="literal"></object>
+  </predicate>
+  <predicate guid="1a00c1c0-0f10-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="9395aa70-9994-11ea-93a4-73c68a644d12">
+      <resource guid="9395aa6e-9994-11ea-93a4-73c68a644d12">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="9395aa6f-9994-11ea-93a4-73c68a644d12" type="resource" guid="f61581f7-0f0f-11e7-9a20-dfec81ac21a9" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="ff5671f2-0f13-11e7-9a20-dfec81ac21a9">
+    <object statement-guid="7c0c466c-9994-11ea-93a4-73c68a644d12" type="literal">csv</object>
+  </predicate>
+</resource>
+

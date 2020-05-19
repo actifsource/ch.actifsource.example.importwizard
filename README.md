@@ -1,6 +1,6 @@
 # Generic Import Wizard
-In this project we will show how to import a simple xml into the model.
-
+In this project we will show how to import a simple xml or csv into the model.  
+Show in the actifsource user manual [Generic Import Wizard](https://www.actifsource.com/_downloads/ActifsourceManual_ActifsourceUserManual.pdf).
 
 ![Import model](images/importmodel.png)
 

@@ -10,7 +10,7 @@
     <object statement-guid="3b26330a-991a-11ea-8568-8df113ebd62f" type="resource" guid="bb1a1087-0e41-11e7-bc08-e928dcbbca14" />
   </predicate>
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-    <object statement-guid="3b26330b-991a-11ea-8568-8df113ebd62f" type="literal">Test example import wizard</object>
+    <object statement-guid="3b26330b-991a-11ea-8568-8df113ebd62f" type="literal">TestTextImportWizard</object>
   </predicate>
   <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="3b26330f-991a-11ea-8568-8df113ebd62f">
@@ -19,7 +19,7 @@
           <object statement-guid="3b26330c-991a-11ea-8568-8df113ebd62f" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
         </predicate>
         <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
-          <object statement-guid="3b26330d-991a-11ea-8568-8df113ebd62f" type="literal">ch.actifsource.xml.importer.aspect.XmlImportWizardAspect</object>
+          <object statement-guid="3b26330d-991a-11ea-8568-8df113ebd62f" type="literal">ch.actifsource.example.importwizard.XmlImportWizardAspect</object>
         </predicate>
         <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
           <object statement-guid="3b26330e-991a-11ea-8568-8df113ebd62f" type="resource" guid="521f1dd5-0e46-11e7-bc08-e928dcbbca14" />
