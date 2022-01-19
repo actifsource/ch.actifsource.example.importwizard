@@ -5,8 +5,8 @@ import java.io.InputStream;
 import java.util.List;
 
 import ch.actifsource.core.job.IWriteJobExecutor;
-import ch.actifsource.ui.wizard.importcsv.CSVParser;
-import ch.actifsource.ui.wizard.importcsv.CSVParser.Row;
+import ch.actifsource.util.csv.CSVParser;
+import ch.actifsource.util.csv.CSVParser.Row;
 import ch.actifsource.ui.wizard.importer.IImportContext;
 import ch.actifsource.ui.wizard.importer.aspect.IGenericImportWizardAspect;
 
